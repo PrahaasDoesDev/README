@@ -1,107 +1,109 @@
-# Prahaas Bhuvanagiri
+<!-- Banner -->
+<p align="center">
+  <img width="100%" alt="banner" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0a0a0a,100:b6ff3c&text=Prahaas%20Bhuvanagiri&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=@PrahaasDoesDev&descAlignY=56&descSize=18&animation=fadeIn" />
+</p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/%40PrahaasDoesDev-9DFF00?style=flat-square&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/Azemble_Technologies-111111?style=flat-square&logoColor=white" />
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://github.com/PrahaasDoesDev">
+    <img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=B6FF3C&center=true&vCenter=true&width=640&height=40&lines=Full-stack+developer+%40+Azemble+Technologies;Web+%C2%B7+Systems+%C2%B7+3D+graphics;React+%C2%B7+Rust+%C2%B7+C%2B%2B+%C2%B7+Python;Powered+by+coffee+%E2%98%95+and+curiosity" />
+  </a>
+</p>
+
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=PrahaasDoesDev&label=PROFILE+VIEWS&color=b6ff3c&style=flat-square&labelColor=0a0a0a" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/PrahaasDoesDev?style=flat-square&color=b6ff3c&labelColor=0a0a0a&logo=github" />
+  <img alt="Location" src="https://img.shields.io/badge/Bangalore-India-b6ff3c?style=flat-square&labelColor=0a0a0a&logo=googlemaps&logoColor=white" />
+  <img alt="Company" src="https://img.shields.io/badge/Azemble-Technologies-b6ff3c?style=flat-square&labelColor=0a0a0a" />
+</p>
+
+<!-- Terminal card -->
+<p align="center">
+  <img width="100%" alt="Terminal card" src="./assets/terminal.svg" />
 </p>
 
 ---
 
-<table>
-<tr>
-<td width="38%" align="center" valign="middle">
+### `[ TECHNOLOGIES & SKILLS ]`
 
-### `$ whoami`
-
-<img src="https://github-readme-stats.vercel.app/api?username=PrahaasDoesDev&show_icons=true&hide_border=true&bg_color=050505&title_color=9DFF00&icon_color=9DFF00&text_color=C9D1D9&hide_title=true" width="100%" />
-
-</td>
-<td width="62%" valign="top">
-
-```yaml
-Developer: Prahaas Bhuvanagiri
-Username: PrahaasDoesDev
-Location: Bangalore, India
-Organization: Azemble Technologies
-
-Interests:
-  - Software Engineering
-  - Artificial Intelligence
-  - Robotics & Embedded Systems
-  - Electronics & Hardware
-  - Full Stack Development
-
-Currently:
-  - Building projects
-  - Exploring emerging technologies
-  - Learning by experimenting
-```
-
-**Contact & Links**
-
-- GitHub: [@PrahaasDoesDev](https://github.com/PrahaasDoesDev)
-- Organization: [Azemble Technologies](https://azembletechnologies.tech)
-
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img alt="frontend" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,threejs" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td><img alt="backend" src="https://skillicons.dev/icons?i=nodejs,express,python,java" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Systems</b></td>
+    <td><img alt="systems" src="https://skillicons.dev/icons?i=c,cpp,rust" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Databases</b></td>
+    <td><img alt="databases" src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" /></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tools</b></td>
+    <td><img alt="tools" src="https://skillicons.dev/icons?i=git,github,docker,blender" /></td>
+  </tr>
 </table>
 
 ---
 
-### `[ TECHNOLOGIES & TOOLS ]`
+### `[ GITHUB STATS ]`
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,cpp,rust,python,java,nodejs,express,prisma,mongodb,postgres,redis,docker,git,github,linux,blender,arduino,raspberrypi&perline=9" />
+<p align="center">
+  <img height="175" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=PrahaasDoesDev&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=b6ff3c&icon_color=b6ff3c&text_color=c9d1d9" />
+  <img height="175" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrahaasDoesDev&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=b6ff3c&text_color=c9d1d9" />
+</p>
+
+<p align="center">
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=PrahaasDoesDev&theme=dark&hide_border=true&background=0a0a0a&ring=b6ff3c&fire=b6ff3c&currStreakLabel=b6ff3c&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=7a7a7a" />
+</p>
+
+<p align="center">
+  <img width="100%" alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=PrahaasDoesDev&bg_color=0a0a0a&color=b6ff3c&line=b6ff3c&point=ffffff&area=true&area_color=b6ff3c&hide_border=true&title_color=b6ff3c" />
 </p>
 
 ---
 
-### `[ GITHUB STATISTICS ]`
+### `[ TROPHIES ]`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PrahaasDoesDev&show_icons=true&hide_border=true&bg_color=050505&title_color=9DFF00&icon_color=9DFF00&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrahaasDoesDev&layout=compact&hide_border=true&bg_color=050505&title_color=9DFF00&text_color=C9D1D9" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=PrahaasDoesDev&hide_border=true&background=050505&ring=9DFF00&fire=9DFF00&currStreakLabel=9DFF00&sideLabels=C9D1D9&dates=777777" />
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=PrahaasDoesDev&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" />
 </p>
 
 ---
 
-### `[ CURRENTLY EXPLORING ]`
+### `[ CONTRIBUTION SNAKE ]`
 
-```console
-> Artificial Intelligence & Machine Learning
-> Robotics and Autonomous Systems
-> Embedded Systems and IoT
-> Full Stack Application Development
-> Computer Vision and Edge AI
-> 3D Modelling and Digital Fabrication
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrahaasDoesDev/PrahaasDoesDev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrahaasDoesDev/PrahaasDoesDev/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/PrahaasDoesDev/PrahaasDoesDev/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+<details>
+<summary><b><code>$ cat ./about.txt</code></b></summary>
+
+```
+> Building things that live on the web, close to the metal, and sometimes in 3D.
+> Currently: shipping at Azemble Technologies.
+> Always learning: Rust, systems programming, graphics.
+> Fuel: coffee.
 ```
 
-### `[ ASCII EXPERIMENTS ]`
-
-Trying out ASCII art with ASCII Magic:
-
-```html
-<script type="module" src="https://www.ascii-magic.com/ascii/ascii.js"></script>
-
-<ascii-art piece="coffee-steam" look="dense"></ascii-art>
-```
-
-*Note: GitHub README rendering does not execute JavaScript. Use an external HTML page to display this effect.*
-
----
+</details>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrahaasDoesDev&style=flat-square&color=9DFF00&label=PROFILE+VIEWS" />
+  <a href="https://github.com/PrahaasDoesDev">
+    <img alt="Follow" src="https://img.shields.io/badge/FOLLOW-@PrahaasDoesDev-b6ff3c?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a" />
+  </a>
 </p>
 
-<p align="center">
-  <code>BUILD • EXPERIMENT • BREAK • LEARN • REPEAT</code>
-</p>
-
-<p align="center">
-  <sub>Generated with curiosity. Maintained with code.</sub>
-</p>
+<p align="center"><sub>[ HAND-FORGED, GITASCII-INSPIRED ]</sub></p>
